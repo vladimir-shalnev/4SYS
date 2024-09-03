@@ -3,7 +3,7 @@ Hello, this file create Vladimir Shalnev!
 Delete this line
 Add the line "Hello this %username%!"
 Change the date in the next line
-"today is September 1, 2000 time 9:00"
+"today is September 4, 2024 time 9:00"
 create any file, or copy and change this
 with the name %username%.txt
 ========================================
